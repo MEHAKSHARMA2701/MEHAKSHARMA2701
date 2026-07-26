@@ -121,21 +121,18 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats-five-azure-73.vercel.app/api?username=MEHAKSHARMA2701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mehak's GitHub Stats" height="165" />
+<img src="https://github-readme-stats-five-azure-73.vercel.app/api/top-langs/?username=MEHAKSHARMA2701&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEHAKSHARMA2701&theme=tokyonight&hide_border=true" alt="Mehak's GitHub Streak" />
 
-</div>
+<br><br>
 
-**Language breakdown across my repos:**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML-25%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://github-profile-trophy.vercel.app/?username=MEHAKSHARMA2701&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
 
 </div>
-
-> 💡 *Note: My detailed GitHub Stats/Top Languages/Trophy cards are temporarily hidden — the shared public service that generates them (github-readme-stats.vercel.app) is currently overloaded and rate-limited for all GitHub users. I'll re-add these once the service stabilizes.*
 
 <br>
 
